@@ -3,7 +3,7 @@
 
 ## introduce to fonctions
 
-***前端部分***
+***front end***
 
 - [x] show article list
 - [x] article category
@@ -20,7 +20,7 @@
 - [x] CRUD
 - [x] ...
 
-## 技术栈
+## techs
 - [x] react
 - [x] react-redux
 - [x] react-router
@@ -46,7 +46,7 @@ this is a full stack open source demo with the CRUD fonctions. for the front_end
 
 > know more [Nealyang/personalBlog](https://github.com/Nealyang/PersonalBlog/blob/master/README.md#node%E7%9B%B8%E5%85%B3)
 
-## 环境
+## environment
 
 ```
 node @7.9.0
