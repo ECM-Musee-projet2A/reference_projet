@@ -1,5 +1,6 @@
 ##SPA: single page application##
    SPA: we use Express.Router for changing the contents of the single page.
+   maybe i didn't understand it correctly,here is the link :http://expressjs.com/en/guide/routing.html
    
 ##Redux##
    it is a module for managing easily the states of the components.
@@ -9,7 +10,10 @@
    for the store, it has a method named dispacth(), this method will call the action concerned when a change occurs.
    actually ,Redux is a very short module, just 99 lines, so we can easily use.
    
+   link:https://redux.js.org/tutorials/essentials/part-1-overview-concepts
+   
  ## mongoose##
     connect with the database, with CRUD fonctions. we can define the schema of the datas. in this exemple, the directory schema and model and server/api/ are derectly concerned.
     the models in the directory "model" are used in server/api/ where you can find "tag","article"and"user".
+    link:https://mongoosejs.com/docs/documents.html#:~:text=Mongoose%20documents%20represent%20a%20one-to-one%20mapping%20to%20documents,Each%20document%20is%20an%20instance%20of%20its%20Model.
    
