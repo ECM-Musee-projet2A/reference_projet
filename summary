@@ -1,5 +1,5 @@
 ##SPA: single page application##
-   SPA: we use Express.Router to choose which page we will load.
+   SPA: we use Express.Router for changing the contents of the single page.
    
 ##Redux##
    it is a module for managing easily the states of the components.
@@ -7,6 +7,7 @@
    we can also define some actions, such as Adding a comments, when this action occurs, Redux will automaticlly change the states concerned. 
    in Redux , there are three things that are the most important, they are the actions, the reducers, and the store。
    for the store, it has a method named dispacth(), this method will call the action concerned when a change occurs.
+   actually ,Redux is a very short module, just 99 lines, so we can easily use.
    
  ## mongoose##
     connect with the database, with CRUD fonctions. we can define the schema of the datas. in this exemple, the directory schema and model and server/api/ are derectly concerned.
