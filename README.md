@@ -1,7 +1,7 @@
-# React技术栈+Express+Mongodb实现个人博客
-众号，获取第一手文章推送
+# React+Express+Mongodb
+ 
 
-## 功能描述
+## introduce to fonctions
 
 ***前端部分***
 
